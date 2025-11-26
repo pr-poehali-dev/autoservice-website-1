@@ -42,7 +42,7 @@ const ContactsAndFooter = () => {
                   </div>
                   <div>
                     <h3 className="font-bold mb-1">Email</h3>
-                    <p className="opacity-90">info@autopro.ru</p>
+                    <p className="opacity-90"></p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -51,8 +51,8 @@ const ContactsAndFooter = () => {
                   </div>
                   <div>
                     <h3 className="font-bold mb-1">Режим работы</h3>
-                    <p className="opacity-90">Пн-Пт: 8:00 - 20:00</p>
-                    <p className="opacity-90">Сб-Вс: 9:00 - 18:00</p>
+                    <p className="opacity-90">Пн-Сб: 9:00 - 19:00</p>
+                    <p className="opacity-90">Вс: 10:00 - 19:00</p>
                   </div>
                 </div>
               </div>
