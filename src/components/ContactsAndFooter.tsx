@@ -23,7 +23,7 @@ const ContactsAndFooter = () => {
                   </div>
                   <div>
                     <h3 className="font-bold mb-1">Адрес</h3>
-                    <p className="opacity-90">г. Москва, ул. Автомобильная, д. 15</p>
+                    <p className="opacity-90">г. Краснодар, ДНТ Знаменский, ул. Черногорская, 17</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -32,8 +32,8 @@ const ContactsAndFooter = () => {
                   </div>
                   <div>
                     <h3 className="font-bold mb-1">Телефон</h3>
-                    <p className="opacity-90">+7 (495) 123-45-67</p>
-                    <p className="opacity-90">+7 (800) 555-35-35</p>
+                    <p className="opacity-90">+7 (967) 000-67-71</p>
+                    <p className="opacity-90"></p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">

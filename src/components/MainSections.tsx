@@ -128,9 +128,7 @@ const MainSections = ({ services, specialOffers, reviews, priceList, bookingOpen
               <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
                 Профессионалы своего дела
               </h2>
-              <p className="text-lg text-muted-foreground mb-6">
-                AutoPro — это современный автосервис с более чем 15-летним опытом работы. Мы специализируемся на обслуживании и ремонте автомобилей всех марок и моделей.
-              </p>
+              <p className="text-lg text-muted-foreground mb-6">Garage — это современный автосервис с более чем 15-летним опытом работы. Мы специализируемся на обслуживании и ремонте автомобилей всех марок и моделей.</p>
               <p className="text-lg text-muted-foreground mb-6">
                 Наша команда состоит из высококвалифицированных мастеров, прошедших специальное обучение и сертификацию. Мы используем только современное диагностическое оборудование и оригинальные запчасти.
               </p>
