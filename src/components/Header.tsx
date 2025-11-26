@@ -33,7 +33,7 @@ const Header = ({ bookingOpen, setBookingOpen, formData, setFormData, handleBook
         <nav className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="CarFront" size={32} className="text-primary" />
-            <span className="text-2xl font-bold text-foreground">AutoPro</span>
+            <span className="text-2xl font-bold text-foreground">Garage</span>
           </div>
           <div className="hidden md:flex items-center gap-6">
             <button onClick={() => scrollToSection('services')} className="text-foreground hover:text-primary transition-colors">
